@@ -11,6 +11,18 @@ A lightweight, client-side Weekly Tutor Payslip Generator for Elimuhub Education
 
 ## Repo Structure
 
+Elimuhub-payslips-generator/
+├── index.html 
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+├── assets/
+│   └── favicon.ico
+├── README.md
+├── LICENSE
+└── .nojekyll
+
 ## Contact (Elimuhub official)
 - Phone: +254 731 838 387  
 - Email: elimuhubconsultant@gmail.com  
